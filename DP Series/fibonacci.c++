@@ -22,7 +22,7 @@ using namespace std;
 
         return dp[n];
     }
-
+      // space optimization  0(1) space complexity
     int constSpace(int n){
         int a=0; 
         int b=1;
