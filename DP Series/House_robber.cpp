@@ -14,7 +14,28 @@ using namespace std;
             int skip= solve(nums, i+1);
 
             return  t[i]= max(take, skip);
+
+            
         }
+
+
+        // bottom up approach (tabulation)
+        
+    int bottom_Up(vector<int>& nums) {
+        int n= nums.size();
+        vector<int>dp(n+1, 0);
+
+        dp[0]=0;
+        dp[1]=nums[0];
+        for(int i=2; i<=n; i++){
+            int take= nums[i-1]+ dp[i-2];
+            int skip= dp[i-1];
+
+            dp[i]= max(take, skip);
+        }
+        return dp[n];
+    }
+
 
     int rob(vector<int>& nums) {
         memset(t, -1, sizeof(t));
@@ -27,6 +48,8 @@ using namespace std;
             for(int i=0; i<n; i++){
                 cin>>nums[i];
             }
+
+            cout<<bottom_Up(nums)<<endl;
             cout<<rob(nums);
             return 0;
         }
