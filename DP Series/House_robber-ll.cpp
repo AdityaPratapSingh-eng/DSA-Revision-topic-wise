@@ -38,6 +38,36 @@ using namespace std;
                 cin>>nums[i];
             }
 
+
+           
+
+          // bottom up approach (tabulation)
+       if(n==1)return nums[0];
+        vector<int>dp(n+1,0);
+        dp[0]=0;
+        dp[1]=0;
+        // case- 1 skip first house
+        for(int i=2; i<=n; i++){
+             int take= nums[i-1]+ (i-2>=0 ? dp[i-2] : 0);
+             int skip = dp[i-1];
+
+             dp[i]= max(take, skip);
+        }
+        int ans1= dp[n];
+        dp.clear();
+
+        dp[0]=0;
+         //case- 2 skip first house
+        for(int i=1; i<=n-1; i++){
+             int take= nums[i-1]+ (i-2>=0 ? dp[i-2] : 0);
+             int skip = dp[i-1];
+
+             dp[i]= max(take, skip);
+        }
+        int ans2= dp[n-1];
+
+        cout<<" bottom-up " << max(ans1, ans2) << endl;
+
             cout<<rob(nums);
             return 0;
         }   
