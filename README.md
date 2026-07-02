@@ -28,16 +28,19 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | ------- |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +65,13 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
