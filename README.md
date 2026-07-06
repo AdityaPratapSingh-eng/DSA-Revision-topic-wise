@@ -27,6 +27,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
+| [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
@@ -94,4 +95,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
