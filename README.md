@@ -86,6 +86,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
 |  |
@@ -103,4 +104,16 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
