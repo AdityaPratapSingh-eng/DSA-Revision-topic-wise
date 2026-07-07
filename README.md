@@ -99,4 +99,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
