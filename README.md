@@ -35,6 +35,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -77,6 +78,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
@@ -91,6 +93,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
 |  |
@@ -99,6 +102,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
