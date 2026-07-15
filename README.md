@@ -120,6 +120,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -156,4 +157,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
