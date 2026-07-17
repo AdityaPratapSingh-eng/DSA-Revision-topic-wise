@@ -40,6 +40,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -102,6 +103,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +155,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
