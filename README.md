@@ -29,6 +29,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
@@ -123,6 +124,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -167,5 +169,6 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
