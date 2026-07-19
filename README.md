@@ -40,6 +40,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0102-binary-tree-level-order-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
@@ -55,11 +56,13 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
