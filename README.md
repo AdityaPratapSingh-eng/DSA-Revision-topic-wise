@@ -68,6 +68,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | ------- |
 | [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -177,6 +178,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
