@@ -68,6 +68,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
+| [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -115,6 +116,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0199-binary-tree-right-side-view](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Dynamic Programming
@@ -159,6 +161,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -173,6 +176,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
@@ -192,4 +196,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
