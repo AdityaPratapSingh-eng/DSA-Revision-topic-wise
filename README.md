@@ -26,6 +26,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
@@ -136,6 +137,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1331-rank-transform-of-an-array) |
@@ -143,6 +145,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3536-maximum-product-of-two-digits) |
