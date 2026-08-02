@@ -27,6 +27,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1288-remove-covered-intervals) |
@@ -137,6 +138,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -156,6 +158,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3536-maximum-product-of-two-digits) |
@@ -236,4 +239,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0222-count-complete-tree-nodes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
