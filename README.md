@@ -160,6 +160,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -219,6 +220,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
