@@ -10,7 +10,7 @@ public:
            return pro%t== 0;
        }
     int smallestNumber(int n, int t) {
-        while(true){
+       for(int i=n; i<n+10; i++){
               if(isvalid(n, t)){
                  return n;
               }
