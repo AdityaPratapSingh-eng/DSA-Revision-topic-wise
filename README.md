@@ -37,6 +37,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -57,6 +58,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +66,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +76,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [1331-rank-transform-of-an-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -243,6 +247,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0222-count-complete-tree-nodes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
