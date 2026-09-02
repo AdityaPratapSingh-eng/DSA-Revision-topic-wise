@@ -39,6 +39,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3875-construct-uniform-parity-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
