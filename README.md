@@ -40,6 +40,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
