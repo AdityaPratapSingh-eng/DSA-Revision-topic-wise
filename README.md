@@ -36,6 +36,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
@@ -79,6 +80,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [1331-rank-transform-of-an-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -241,6 +243,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | ------- |
 | [1291-sequential-digits](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -270,4 +273,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0700-search-in-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
