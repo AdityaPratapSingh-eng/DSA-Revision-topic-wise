@@ -27,6 +27,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
@@ -66,6 +67,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
