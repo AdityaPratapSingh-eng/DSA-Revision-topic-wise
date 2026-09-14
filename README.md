@@ -174,6 +174,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -279,4 +280,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
