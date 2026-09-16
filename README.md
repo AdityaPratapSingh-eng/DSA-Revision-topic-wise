@@ -92,6 +92,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -155,6 +156,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -284,4 +286,12 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
