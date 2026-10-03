@@ -89,6 +89,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
@@ -156,6 +157,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
@@ -198,6 +200,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
@@ -306,4 +309,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
