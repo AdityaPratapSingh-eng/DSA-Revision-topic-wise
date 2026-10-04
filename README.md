@@ -93,6 +93,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0115-distinct-subsequences](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -160,6 +161,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -204,6 +206,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -304,6 +307,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -313,4 +317,5 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
