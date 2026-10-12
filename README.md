@@ -26,6 +26,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
@@ -77,6 +78,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0127-word-ladder) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
