@@ -29,6 +29,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0001-two-sum](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0001-two-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
@@ -60,6 +61,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0226-invert-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
@@ -72,6 +74,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1260-shift-2d-grid) |
@@ -119,6 +122,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -156,6 +160,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [0257-binary-tree-paths](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
