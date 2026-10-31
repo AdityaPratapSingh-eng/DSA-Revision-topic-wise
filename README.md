@@ -46,6 +46,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3904-smallest-stable-index-ii) |
@@ -84,6 +85,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +186,7 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/3665-twisted-mirror-path-count) |
 ## Topological Sort
 |  |
 | ------- |
