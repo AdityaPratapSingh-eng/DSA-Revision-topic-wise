@@ -337,4 +337,8 @@ This repository contains my daily Data Structures & Algorithms (DSA) revision pr
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/AdityaPratapSingh-eng/DSA-Revision-topic-wise/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
